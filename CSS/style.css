@@ -1,4 +1,40 @@
-.h1{
-    font-size: 34px;
-    color: brown;
+
+body{
+    background-color:#D6CCC2;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+    text-decoration-thickness: 10%;
+    text-decoration-color:black;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-thickness: 10%;
+    font-weight: 300;
+}
+
+nav{
+    text-align: center;
+}
+
+button{
+    text-align: center;
+}
+
+.Me{
+    height: 200px;
+    width: 300px;
+}
+image{
+    text-align: left;
+}
+h3{
+    font-weight: 105;
+    text-decoration: underline;
 }
