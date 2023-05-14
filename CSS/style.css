@@ -16,7 +16,7 @@ h2{
     text-align: center;
     text-decoration: underline;
     text-decoration-thickness: 10%;
-    font-weight: 300;
+    font-weight: 250;
 }
 
 nav{
@@ -30,11 +30,21 @@ button{
 .Me{
     height: 200px;
     width: 300px;
+    border-radius: 5%;
 }
 image{
     text-align: left;
+    
 }
+
 h3{
     font-weight: 105;
     text-decoration: underline;
+}
+
+button{
+    border-radius: 5px;
+    background-color: beige;
+    border: 0;
+    padding: 5px;  
 }
