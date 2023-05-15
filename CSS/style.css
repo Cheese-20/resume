@@ -1,50 +1,60 @@
-
-body{
-    background-color:#D6CCC2;
+body {
+  background-color: #d6ccc2;
+  margin: 0px;
 }
 
-h1{
-    color: black;
-    text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-decoration: underline;
-    text-decoration-thickness: 10%;
-    text-decoration-color:black;
+h1 {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-decoration-thickness: 10%;
+
+  margin: auto;
+  font-size: 40px;
+  background-color: blanchedalmond;
+  padding: 25px;
 }
 
-h2{
-    text-align: center;
-    text-decoration: underline;
-    text-decoration-thickness: 10%;
-    font-weight: 250;
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-thickness: 10%;
+  font-weight: 250;
 }
 
-nav{
-    text-align: center;
+nav {
+  text-align: center;
 }
 
-button{
-    text-align: center;
+button {
+  text-align: center;
 }
 
-.Me{
-    height: 200px;
-    width: 300px;
-    border-radius: 5%;
+#me {
+  height: 200px;
+  width: 300px;
+  border-radius: 5%;
+  margin: 25px;
 }
-image{
-    text-align: left;
+img {
+  text-align: right;
+}
+h3 {
+  font-weight: 105;
+  text-decoration: underline;
+}
+
+button {
+  border-radius: 5px;
+  background-color: beige;
+  border: 0;
+  padding: 5px;
+}
+
+Section {
+  margin: 10px;
+}
+
+footer{
     
-}
-
-h3{
-    font-weight: 105;
-    text-decoration: underline;
-}
-
-button{
-    border-radius: 5px;
-    background-color: beige;
-    border: 0;
-    padding: 5px;  
 }
