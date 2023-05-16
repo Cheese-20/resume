@@ -34,7 +34,7 @@ button {
   padding: 30px;
   margin: 35px;
   flex: 2;
-  border-radius: 70%;
+  border-radius: 50%;
 }
 
 .hi{
@@ -53,10 +53,11 @@ h3 {
 
 nav {
   width: 100%;
-  display: flex; 
   align-items: center;
   justify-content: space-between;
   position: relative;
+  padding: 5px;
+  z-index: 1;
 }
 
 .main {
