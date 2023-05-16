@@ -20,19 +20,27 @@ h2 {
   font-weight: 250;
 }
 
+.intro{
+    display: flex;
+}
+
 button {
   text-align: center;
 }
 
 #me {
   height: 200px;
-  width: 300px;
-  border-radius: 5%;
-  margin: 25px;
+  width: 75px;
+  padding: 30px;
+  margin: 35px;
+  flex: 2;
+  border-radius: 12%;
 }
-img {
-  text-align: right;
+
+.hi{
+    margin: 35px;
 }
+
 h3 {
   font-weight: 105;
   text-decoration: underline;
@@ -43,12 +51,12 @@ h3 {
   min-height: 15px;
 }
 
-nav { 
-    width:100%;
-    display: flex; /*side by side content*/
-    align-items: center;
-    justify-content: space-between;
-    position: relative;
+nav {
+  width: 100%;
+  display: flex; /*side by side content*/
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
 }
 
 .main {
@@ -56,7 +64,6 @@ nav {
   margin-inline: auto;
   padding-inline: 1rem;
 }
-
 
 
 header {
@@ -73,7 +80,6 @@ header::after {
   inset: 0; /*top and bottom*/
   transform: skewY(5deg); /*tilt*/
 }
-
 
 Section {
   margin: 10px;
