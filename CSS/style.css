@@ -26,6 +26,13 @@ h2 {
 
 button {
   text-align: center;
+  border-radius: 10%;
+  border-style: none;
+  background-color: antiquewhite;
+  position: sticky;
+  top: 0px;
+
+  
 }
 
 .me {
