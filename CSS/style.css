@@ -28,11 +28,11 @@ button {
   text-align: center;
 }
 
-#me {
-  height: 200px;
-  width: 75px;
+.me {
+  height: 400px;
+  width: 400px;
   padding: 30px;
-  margin: 35px;
+  margin: 30px;
   flex: 2;
   border-radius: 50%;
 }
