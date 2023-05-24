@@ -31,22 +31,10 @@ button {
   background-color: #DAF0F7;
   position: sticky;
   top: 0px;
-
-  
 }
 
-.me {
-  height: 350px;
-  width: 20px;
-  padding: 30px;
-  margin: 30px;
-  flex: 1;
-  border-radius: 50%;
-}
 
-.hi{
-    margin: 35px;
-}
+
 
 h3 {
   font-weight: 105;
