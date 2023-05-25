@@ -33,7 +33,9 @@ button {
   top: 0px;
 }
 
-
+.me{
+  border-radius: 50%;
+}
 
 
 h3 {
@@ -86,4 +88,7 @@ Section {
   max-width: 60rem;
   margin-inline: auto;
   padding-inline: 1rem;
+}
+.hi{
+  z-index: 1;
 }
